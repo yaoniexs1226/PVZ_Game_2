@@ -1,0 +1,13 @@
+# Visual Studio 编译缓存
+/.vs/
+/x64/
+/Debug/
+/Release/
+*.vcxproj.user
+*.vcxproj.filters
+*.sln.docstates
+
+# 系统/缓存文件
+Thumbs.db
+.DS_Store
+*.log
